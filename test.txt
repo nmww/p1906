@@ -1,0 +1,10 @@
+test
+
+时间
+2019年6月10日11:30:48
+git的使用
+
+github 注册账号
+  qq邮箱验证：mail.qq.com
+gitgui 绑定账号
+gitgui 使用
